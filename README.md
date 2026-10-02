@@ -1,4 +1,4 @@
-# ONEPOST AI Decision Assistant
+# AI Decision Assistant
 
 Jednoduchá Spring Boot služba, ktorá pomocou Gemini AI zoradí nevyriešené správy
 používateľa podľa naliehavosti a vysvetlí prečo.
